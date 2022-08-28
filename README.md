@@ -42,11 +42,11 @@ The hero can perform the following actions – but only if s/he is alive!
 
 ## Legend
 
-The problems you need to implement are defined by the following graphs using the legend below, Good luck! [^1]
+The problems you need to implement are defined by the following graphs using the legend below, Good luck![^1]
 
 ![Legend](img/legend.png) 
 
-[^1] Icons acknowledgement: https://www.pngkey.com/maxpic/u2q8w7a9e6o0q8r5/
+[^1]: Icons acknowledgement: https://www.pngkey.com/maxpic/u2q8w7a9e6o0q8r5/
 
 ### Problem 1
 
